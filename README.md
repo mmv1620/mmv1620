@@ -34,6 +34,5 @@ A team project developed as part of the CMPE331 Software Engineering course. The
 
 ## 📫 Contact
 
-- GitHub: https://github.com/mmv1620
 - LinkedIn: https://www.linkedin.com/in/mehmet-mert-varol-33b26b1b6/
 - Email: mehmetmertvarol@hotmail.com
